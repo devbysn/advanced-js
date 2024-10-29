@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+
+# Ignore node_modules in all folders
+**/node_modules/
+
+npm-debug.log
+yarn-error.log
+dist/
+.build/
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+.idea/
